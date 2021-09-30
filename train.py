@@ -9,4 +9,5 @@ if __name__ == '__main__':
     root_path = osp.abspath(osp.join(__file__, osp.pardir))
     print('aa')
     print('bb')
+    print('cc')
     train_pipeline(root_path)
