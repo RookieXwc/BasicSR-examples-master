@@ -14,10 +14,11 @@ if __name__ == '__main__':
     print('ee')
     print('ff')
     print('gg')
-    print('hh')
+
 
     print('jj')
     print('kk')
     print('ll')
     print('mm')
+    print('tt')
     train_pipeline(root_path)
