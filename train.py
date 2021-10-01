@@ -17,4 +17,5 @@ if __name__ == '__main__':
     print('hh')
     print('ii')
     print('jj')
+    print('kk')
     train_pipeline(root_path)
