@@ -21,4 +21,5 @@ if __name__ == '__main__':
     print('ll')
     print('mm')
     print('tt')
+    print('oo')
     train_pipeline(root_path)
