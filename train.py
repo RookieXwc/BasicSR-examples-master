@@ -13,7 +13,7 @@ if __name__ == '__main__':
     print('dd')
     print('ee')
     print('ff')
-    print('gg')
+
 
 
     print('jj')
