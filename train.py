@@ -25,4 +25,5 @@ if __name__ == '__main__':
 
     print('rr')
     print('ss')
+    print('sft')
     train_pipeline(root_path)
